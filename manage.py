@@ -2,7 +2,6 @@
 import os
 import sys
 
-#!/usr/bin/env python
 
 def main():
     """Run administrative tasks."""
